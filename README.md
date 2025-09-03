@@ -1,2 +1,3 @@
 # shams-coder-demo
-this ismy first repository
+This is my first Git Repository
+Author - Syed Shams Tauhid
